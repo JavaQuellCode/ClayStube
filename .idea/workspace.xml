@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de49213b-2dc6-49e5-9931-ee726ccfd0fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2M0N71KUv9PUa4b4Z4sHytPdg7Z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16210938" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de49213b-2dc6-49e5-9931-ee726ccfd0fd" name="Default Changelist" comment="" />
+      <created>1676900368752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676900368752</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added Modul LobbySytem">
+      <created>1677054794949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677054794949</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="added Modul LobbySytem" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Modul LobbySytem" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="92" width="1040" height="853" key="#Project_Structure" timestamp="1677054718563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="92" width="1040" height="853" key="#Project_Structure/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677054718563" />
+    <state x="506" y="0" key="CommitChangelistDialog2" timestamp="1677054794142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="506" y="0" key="CommitChangelistDialog2/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677054794142" />
+    <state x="568" y="164" width="1003" height="710" key="SettingsEditor" timestamp="1677055715059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="568" y="164" width="1003" height="710" key="SettingsEditor/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677055715059" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1677054805316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677054805316" />
+    <state x="342" y="95" key="new project wizard" timestamp="1677054484330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="95" key="new project wizard/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677054484330" />
+  </component>
+</project>

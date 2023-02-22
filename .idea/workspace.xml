@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de49213b-2dc6-49e5-9931-ee726ccfd0fd" name="Default Changelist" comment="" />
+    <list default="true" id="de49213b-2dc6-49e5-9931-ee726ccfd0fd" name="Default Changelist" comment="added Modul LobbySytem">
+      <change afterPath="$PROJECT_DIR$/LobbySystem/src/main/java/de/java/lobby/Lobby.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LobbySystem/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LobbySystem/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="7ed79fc0-2286-4033-a57b-0615d92fea11" />
   </component>
   <component name="ProjectId" id="2M0N71KUv9PUa4b4Z4sHytPdg7Z" />
   <component name="ProjectLevelVcsManager">
@@ -49,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677054794949</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added Modul LobbySytem">
+      <created>1677055836653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677055836653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -58,22 +79,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="added Modul LobbySytem" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="92" width="1040" height="853" key="#Project_Structure" timestamp="1677054718563">
+    <state x="440" y="92" width="1040" height="853" key="#Project_Structure" timestamp="1677056228469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="92" width="1040" height="853" key="#Project_Structure/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677054718563" />
-    <state x="506" y="0" key="CommitChangelistDialog2" timestamp="1677054794142">
+    <state x="440" y="92" width="1040" height="853" key="#Project_Structure/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677056228469" />
+    <state x="506" y="0" key="CommitChangelistDialog2" timestamp="1677056306697">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="506" y="0" key="CommitChangelistDialog2/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677054794142" />
+    <state x="506" y="0" key="CommitChangelistDialog2/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677056306697" />
+    <state x="818" y="430" key="Github.Dialog.Accounts.Choose" timestamp="1677055944808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="430" key="Github.Dialog.Accounts.Choose/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677055944808" />
     <state x="568" y="164" width="1003" height="710" key="SettingsEditor" timestamp="1677055715059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="568" y="164" width="1003" height="710" key="SettingsEditor/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677055715059" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1677054805316">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1677055841026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677054805316" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/1920.95.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1677055841026" />
     <state x="342" y="95" key="new project wizard" timestamp="1677054484330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
